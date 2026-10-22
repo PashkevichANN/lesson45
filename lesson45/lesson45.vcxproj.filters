@@ -21,6 +21,9 @@
     <ClCompile Include="until.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="until.h">

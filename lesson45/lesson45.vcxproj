@@ -21,6 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test01.cpp" />
+    <ClCompile Include="test03.cpp" />
     <ClCompile Include="until.cpp" />
   </ItemGroup>
   <ItemGroup>
